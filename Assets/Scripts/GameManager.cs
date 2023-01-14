@@ -4,8 +4,8 @@ using TMPro;
 public class GameManager : MonoBehaviour
 {
     public Player player;
-    public TMPro.TMP_Text highScoreText;
-    public TMPro.TMP_Text scoreText;
+    public TMP_Text highScoreText;
+    public TMP_Text scoreText;
     public GameObject getReady;
     public GameObject gameOver;
     public GameObject playButton;
