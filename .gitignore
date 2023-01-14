@@ -9,7 +9,8 @@
 /[Tt]emp/
 /[Oo]bj/
 /[Bb]uild/
-/[Bb]uilds/
+/[Bb]uilds/*
+!/[Bb]uilds/.gitkeep
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
